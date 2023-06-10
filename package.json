@@ -1,7 +1,7 @@
 {
   "name": "@quiztrack/tempura",
   "version": "0.0.1",
-  "description": "Standpage component library for React Applications.",
+  "description": "Standpage-Design component library for React Applications.",
   "module": "",
   "types": "",
   "scripts": {

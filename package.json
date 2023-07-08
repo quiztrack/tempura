@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/quiztrack/tempura#readme",
   "workspaces": [
-    "packages/react-tempura"
+    "packages/react-tempura/**/*"
   ]
 }

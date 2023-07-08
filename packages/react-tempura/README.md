@@ -1,1 +1,1 @@
-# @quiztrack/react-tempura
+# React Tempura
